@@ -38,7 +38,14 @@
 ---
 
 ## ✍️ Notes
-![4](https://github.com/user-attachments/assets/b70c2fa2-383d-4a16-bb81-d4518f65ecea)
+![1](https://github.com/user-attachments/assets/6a6789ef-3da6-43ce-becb-7f18b92ca665) 1st
+![2](https://github.com/user-attachments/assets/02ff3929-eb63-4be6-93fa-e87764a025cc) 2nd
+![3](https://github.com/user-attachments/assets/67049326-a866-4365-87b0-9f793c97a6c0) 3rd
+![4](https://github.com/user-attachments/assets/d81dc289-94f8-47f3-9ba9-5344763b6f13) 4th
+
+
+
+
 
 
 
